@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/landingPage/static/css/main.42367fd7.chunk.css",
+    "main.js": "/landingPage/static/js/main.4b0d1947.chunk.js",
+    "main.js.map": "/landingPage/static/js/main.4b0d1947.chunk.js.map",
+    "runtime-main.js": "/landingPage/static/js/runtime-main.3b1c4636.js",
+    "runtime-main.js.map": "/landingPage/static/js/runtime-main.3b1c4636.js.map",
+    "static/js/2.dc551a4d.chunk.js": "/landingPage/static/js/2.dc551a4d.chunk.js",
+    "static/js/2.dc551a4d.chunk.js.map": "/landingPage/static/js/2.dc551a4d.chunk.js.map",
+    "static/js/3.63402147.chunk.js": "/landingPage/static/js/3.63402147.chunk.js",
+    "static/js/3.63402147.chunk.js.map": "/landingPage/static/js/3.63402147.chunk.js.map",
+    "index.html": "/landingPage/index.html",
+    "static/css/main.42367fd7.chunk.css.map": "/landingPage/static/css/main.42367fd7.chunk.css.map",
+    "static/js/2.dc551a4d.chunk.js.LICENSE.txt": "/landingPage/static/js/2.dc551a4d.chunk.js.LICENSE.txt",
+    "static/media/home.css": "/landingPage/static/media/maldives.92ae97c5.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3b1c4636.js",
+    "static/js/2.dc551a4d.chunk.js",
+    "static/css/main.42367fd7.chunk.css",
+    "static/js/main.4b0d1947.chunk.js"
+  ]
+}
